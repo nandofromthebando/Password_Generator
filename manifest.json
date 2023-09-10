@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Password Generator",
+  "version": "1.0",
+  "description": "Generate and securely store strong passwords.",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/lock_icon16.png",
+      "48": "images/lock_icon48.png",
+      "128": "images/lock_icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/lock_icon16.png",
+    "48": "images/lock_icon48.png",
+    "128": "images/lock_icon128.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/lock_icon16.png",
+      "48": "images/lock_icon48.png",
+      "128": "images/lock_icon128.png"
+    }
+  }
+
+}

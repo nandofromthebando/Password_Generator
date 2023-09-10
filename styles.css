@@ -1,0 +1,21 @@
+
+#password {
+  font-size: 12px;
+  color: #333; /* You can use color names or hex values */
+}
+h1 {
+    font-size: 20px;
+    color: #000000;
+    font-family: "American Typewriter";
+    font-weight: bold;
+  }
+/*Save button */
+#generate {
+  background-color: #6a0d8f; /* Background color */
+  color: #ffffff; /* Text color */
+  font-size: 14px;
+  font-family: "American Typewriter";
+  border: none; /* Remove the button border */
+  padding: 10px 20px; /* Adjust padding */
+  cursor: pointer; /* cursor style on hover */
+}
